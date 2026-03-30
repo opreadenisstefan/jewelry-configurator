@@ -22,9 +22,7 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 800, margin: "auto", padding: 40 }}>
-      <h1 style={{ textAlign: "center" }}>
-        Creează bijuteria ta 💎
-      </h1>
+      <h1 style={{ textAlign: "center" }}>Creează bijuteria ta 💎</h1>
 
       <div style={boxStyle}>
         <h3>1. Alege metalul</h3>
